@@ -1,6 +1,6 @@
 # `pwdcp`
 
-Simple aliases to copy current working directory to the clipboard.
+Simple alias to copy current working directory to the clipboard.
 
 ## Usage
 
