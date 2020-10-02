@@ -21,7 +21,7 @@ antigen bundle aubreypwd/zsh-plugin-pwdcp@1.0.0
 Install the package on `master`:
 
 ```bash
-antigen bundle aubreypwd/zsh-plugin-pwdcp
+antigen bundle ssh://git@github.com/aubreypwd/zsh-plugin-pwdcp
 ```
 
 ...and contribute upstream by working in `$HOME/.antigen/bundles/aubreypwd/zsh-plugin-pwdcp`.
